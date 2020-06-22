@@ -1,0 +1,78 @@
+[submodule "7hud"]
+	path = 7hud
+	url = https://github.com/Sevin7/7hud.git
+[submodule "broeselhudblue"]
+	path = broeselhudblue
+	url = https://github.com/fblue/broeselhud_blue.git
+[submodule "voidhud"]
+	path = voidhud
+	url = https://github.com/TheStaticVoid/VoidHUD2.0.git
+[submodule "ahud"]
+	path = ahud
+	url = https://github.com/n0kk/ahud.git
+[submodule "bwhud"]
+	path = bwhud
+	url = https://github.com/bw-/bwhud.git
+[submodule "budhud"]
+	path = budhud
+	url = https://github.com/rbjaxter/budhud.git
+[submodule "idhud"]
+	path = idhud
+	url = https://github.com/Eniere/idhud.git
+[submodule "kbnhud"]
+	path = kbnhud
+	url = https://github.com/Jotunn/kbnhud.git
+[submodule "rayshud"]
+	path = rayshud
+	url = https://github.com/raysfire/rayshud.git
+[submodule "biscottihud"]
+	path = biscottihud
+	url = https://github.com/MedicodiBiscotti/biscottiHUD.git
+[submodule "frankenhud"]
+	path = frankenhud
+	url = https://github.com/TheKins/frankenhud.git
+[submodule "yayahud"]
+	path = yayahud
+	url = https://github.com/yttrium-tyclief/yayahud.git
+[submodule "solarhud"]
+	path = solarhud
+	url = https://github.com/Stochast1c/solarhud.git
+[submodule "boredhud"]
+	path = boredhud
+	url = https://github.com/TheStaticVoid/boredHUD.git
+[submodule "flawhud"]
+	path = flawhud
+	url = https://github.com/CriticalFlaw/FlawHUD.git
+[submodule "m0rehud"]
+	path = m0rehud
+	url = https://github.com/Hypnootize/m0rehud.git
+[submodule "mkhud"]
+	path = mkhud
+	url = https://github.com/nimtra/mkHUD.git
+[submodule "mhud"]
+	path = mhud
+	url = https://github.com/Marblr/mHUD.git
+[submodule "antshud"]
+	path = antshud
+	url = https://github.com/AsianAntwan/AntsHUD.git
+[submodule "rebelhud"]
+	path = rebelhud
+	url = https://github.com/TheRebelCreeper/RebelHud.git
+[submodule "hypnotizehud"]
+	path = hypnotizehud
+	url = https://github.com/Hypnootize/Hypnotize-Hud.git
+[submodule "moeshud"]
+	path = moeshud
+	url = https://github.com/MoeLesting/MoesHUD.git
+[submodule "slaghud"]
+	path = slaghud
+	url = https://github.com/MagmaDude/SlagHUD.git
+[submodule "bxhud"]
+	path = bxhud
+	url = https://github.com/Hypnootize/BX-Hud.git
+[submodule "garm3nql"]
+	path = garm3nql
+	url = https://github.com/Hypnootize/Garm3n-QL.git
+[submodule "delihud"]
+	path = delihud
+	url = https://github.com/Hypnootize/Deli-Hud.git
