@@ -8,7 +8,7 @@ echo "Initializing submodules..."
 git submodule init > /dev/null 2>&1
 
 echo "Updating submodules from remote repositories..."
-git submodule update --recursive --remote > /dev/null 2>&1
+git submodule update --recursive --remote > /dev/null 2>&1 || true
 sleep 10
 
 echo "Committing changes..."
