@@ -64,9 +64,6 @@
 [submodule "moeshud"]
 	path = moeshud
 	url = https://github.com/MoeLesting/MoesHUD.git
-[submodule "slaghud"]
-	path = slaghud
-	url = https://github.com/MagmaDude/SlagHUD.git
 [submodule "bxhud"]
 	path = bxhud
 	url = https://github.com/Hypnootize/BX-Hud.git
