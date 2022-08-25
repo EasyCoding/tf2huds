@@ -27,7 +27,7 @@
 	url = https://github.com/raysfire/rayshud.git
 [submodule "biscottihud"]
 	path = biscottihud
-	url = https://github.com/MedicodiBiscotti/biscottiHUD.git
+	url = https://github.com/MedicodiBiscotti/biscottihud.git
 [submodule "frankenhud"]
 	path = frankenhud
 	url = https://github.com/TheKins/frankenhud.git
