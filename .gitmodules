@@ -60,7 +60,7 @@
 	url = https://github.com/TheRebelCreeper/RebelHud.git
 [submodule "hypnotizehud"]
 	path = hypnotizehud
-	url = https://github.com/Hypnootize/Hypnotize-Hud.git
+	url = https://github.com/Hypnootize/hypnotizehud.git
 [submodule "moeshud"]
 	path = moeshud
 	url = https://github.com/MoeLesting/MoesHUD.git
@@ -78,7 +78,7 @@
 	url = https://github.com/Jofre-Problem/lionHUD.git
 [submodule "sunsethud"]
 	path = sunsethud
-	url = https://github.com/Hypnootize/Sunset-Hud.git
+	url = https://github.com/Hypnootize/sunsethud.git
 [submodule "teahudv2"]
 	path = teahudv2
 	url = https://github.com/DrinkinTea22/teahudv2.git
