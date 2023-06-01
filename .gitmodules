@@ -61,9 +61,6 @@
 [submodule "hypnotizehud"]
 	path = hypnotizehud
 	url = https://github.com/Hypnootize/hypnotizehud.git
-[submodule "moeshud"]
-	path = moeshud
-	url = https://github.com/MoeLesting/MoesHUD.git
 [submodule "bxhud"]
 	path = bxhud
 	url = https://github.com/Hypnootize/BX-Hud.git
