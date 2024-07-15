@@ -1,9 +1,6 @@
 [submodule "7hud"]
 	path = 7hud
 	url = https://github.com/Sevin7/7hud.git
-[submodule "broeselhudblue"]
-	path = broeselhudblue
-	url = https://github.com/fblue/broeselhud_blue.git
 [submodule "voidhud"]
 	path = voidhud
 	url = https://github.com/TheStaticVoid/VoidHUD2.0.git
