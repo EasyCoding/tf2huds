@@ -76,6 +76,3 @@
 [submodule "teahudv2"]
 	path = teahudv2
 	url = https://github.com/DrinkinTea22/teahudv2.git
-[submodule "zehud"]
-	path = zehud
-	url = https://github.com/bo0bsy/ZeHud.git
